@@ -32,9 +32,6 @@ Cybersecurity Professional | Ethical Hacker | Software Engineer | Bug Bounty Hun
 
 ---
 
-🧰 **Tech Arsenal**
-
-
 📈 **My GitHub Stats**
 
 <p align="center">
