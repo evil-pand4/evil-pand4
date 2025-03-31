@@ -87,9 +87,8 @@ if (mindset.breakStuff && mindset.buildStuff) {
 ```
 
 ---
-
 <p align="center">
-  <img src="https://media.giphy.com/media/l1J3preURPiwjRPvG/giphy.gif" width="300" alt="typing hacker"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2V4Njl4bzNvazhoc3kya3d5NXowbmRhYWQ1N2xmbnJsOHBmejFhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EPcvhM28ER9XW/giphy.gif" width="300" alt="typing hacker"/>
 </p>
 
 > *"Exploit with honor. Build with purpose. Protect what matters."* – evil_panda 🐼💻
