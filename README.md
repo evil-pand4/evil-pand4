@@ -18,7 +18,7 @@
 Cybersecurity Professional | Ethical Hacker | Software Engineer | Bug Bounty Hunter
 ```
 
-🧠 Passionate about web application security, offensive techniques, system hardening, endpoint defense, and building secure-by-design full-stack apps. Constantly finding new ways to break things so I can build them better.
+🧠 Passionate about web application security, offensive techniques, system hardening, endpoint defense, and building secure-by-design full-stack apps. Constantly finding new ways to break things so I can help software be safer and better.
 
 🔥 Skilled in:
 
@@ -27,24 +27,13 @@ Cybersecurity Professional | Ethical Hacker | Software Engineer | Bug Bounty Hun
 - Vulnerability Research & Responsible Disclosure
 - Capture the Flag (CTF) challenges & HackTheBox labs
 - Red Team Automation & Scripting (Python, Bash, JS, PowerShell)
-- Secure DevOps, Anti-Forensics, and Threat Hunting
+- Web Application & API Security
+- Ethical Pen-Testing & Cyber Security Auditing
 
 ---
 
 🧰 **Tech Arsenal**
 
-```yaml
-Languages:
-  - TypeScript | JavaScript | Python | Bash | C# | SQL | HTML/SCSS
-Frameworks & Libraries:
-  - Angular | React | Node.js | Express | Sequelize | TailwindCSS
-Tools:
-  - Nmap | Burp Suite | Metasploit | Wireshark | Gobuster | Sublist3r | ffuf | sqlmap
-Environments:
-  - Parrot OS | Kali | Ubuntu | Docker | Linode | DigitalOcean
-```
-
----
 
 📈 **My GitHub Stats**
 
@@ -61,8 +50,8 @@ Environments:
 🕵️‍♂️ **Current Side Quests**
 
 - 🔍 Hunting bugs on platforms like Bugcrowd, HackerOne, and private programs.
-- 🧪 Building & pentesting my own SaaS platforms, scratch-card engines, and online games.
-- 🛡️ Designing hardened Linux systems and meltdown triggers.
+- 🧪 Building & pentesting my own SaaS platforms, web application security tools, and pen-testing a large & popular blockchain based game.
+- 🛡️ Building state of the art security tools, and breaking into web apps or apis.
 - 🧠 Researching obscure bypasses, CORS misconfigs, and advanced recon techniques.
 
 ---
@@ -100,7 +89,7 @@ if (mindset.breakStuff && mindset.buildStuff) {
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l1J3preURPiwjRPvG/giphy.gif" width="300" alt="typing hacker"/>
+  <img src="[https://media.giphy.com/media/l1J3preURPiwjRPvG/giphy.gif](https://media.giphy.com/media/l1J3preURPiwjRPvG/giphy.gif)" width="300" alt="typing hacker"/>
 </p>
 
 > *"Exploit with honor. Build with purpose. Protect what matters."* – evil_panda 🐼💻
